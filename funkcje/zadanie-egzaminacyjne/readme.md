@@ -1,0 +1,1 @@
+Napisz funkcję, która stwierdza, czy zadana jako parametr liczba całkowita jest kwadratem pewnej liczby całkowitej. Liczby będące kwadratami liczb całkowitych to 1, 4, 9, 16 itd. Wartością funkcji ma być jeden, jeśli liczba spełnia warunek oraz zero w przeciwnym wypadku.

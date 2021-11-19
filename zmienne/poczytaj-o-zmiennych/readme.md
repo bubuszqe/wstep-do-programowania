@@ -1,0 +1,1 @@
+Artykuł o [zmiennych](https://pl.wikipedia.org/wiki/Zmienna%5F%28informatyka%29).

@@ -1,0 +1,1 @@
+Zapoznaj się z poniższym [tekstem](https://informatyk.edu.pl/funkcje/)

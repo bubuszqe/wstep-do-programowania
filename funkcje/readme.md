@@ -1,0 +1,1 @@
+Funkcje to części kodu, które wykonują ustalone czynności po ich wywołaniu. Te czynności są tylko wykonywane wtedy, kiedy zostanie wywołana dana funkcja. Tworzenie funkcji w kodzie pozwala zautomatyzować wykonywanie pewnych, powtarzających się czynności (i tym samym zmniejszyć ilość kodu).
