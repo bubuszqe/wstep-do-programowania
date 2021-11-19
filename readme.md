@@ -4,3 +4,4 @@ Między programistami trwają debaty, czy programowanie komputerów jest sztuką
 
 Inną debatą dotyczącą tego przedmiotu jest stopień, w jakim język programowania wpływa na formę, jaką przybiera oraz jak funkcjonuje końcowy program. Jest ona analogiczna do [hipotezy Sapira-Whorfa](https://pl.wikipedia.org/wiki/Hipoteza%5FSapira-Whorfa) w [lingwistyce](https://pl.wikipedia.org/wiki/J%C4%99zykoznawstwo). Programowanie zwykle wymaga wiedzy w dziedzinie algorytmów i struktur danych, języków i metodologii programowania, architektury komputerów i oprogramowania oraz wiedzy dziedzinowej, w zależności od powstającego programu. Z perspektywy [inżynierii oprogramowania](https://pl.wikipedia.org/wiki/In%C5%BCynieria%5Foprogramowania) programowanie (implementacja) jest tylko jednym z etapów powstawania programu.
 kekekepe
+kekekekekekeekkeke
